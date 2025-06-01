@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nour Zeidan</h1>
 <h3 align="center">A passionate full stack Developer</h3>
 
-- 🔭 I’m currently working on **E-Commerce website**
+- 🔭 I’m currently working on an **E-Commerce website**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nour Zeidan</h1>
 <h3 align="center">A passionate full stack Developer</h3>
 
+- 🔭 I’m currently working on **E-Commerce website**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/nourzeidan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nourzeidan_" height="30" width="40" /></a>
